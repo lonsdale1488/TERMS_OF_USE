@@ -8,7 +8,7 @@ Fireplace — https://doc-hosting.flycricket.io/fireplace-privacy-policy/fc8ec41
 Halloween — https://gist.github.com/lonsdale1488/18f5075599c5ccdc9affafefc171e436
 Events — https://doc-hosting.flycricket.io/event/b09d6b49-620e-4a92-9703-79a413d2ca28/privacy
 Мандри — https://lonsdale1488.github.io/mandry-privacy/PRIVACY_POLICY
-Гадання так / ні — <ПОСИЛАННЯ НА ПОЛІТИКУ КОНФІДЕНЦІЙНОСТІ>
+Гадання так / ні — https://www.termsfeed.com/live/0c0d3372-23c0-46df-858f-462bb8ad61d7
 Якщо ви не згодні, не використовуйте Застосунки та видаліть їх зі свого пристрою.
 Застосунки поширюються через Google Play. Умови Google Play діють додатково до цих Умов.
 2. Опис сервісу
